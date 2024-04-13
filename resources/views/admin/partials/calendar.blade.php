@@ -137,8 +137,8 @@ document.addEventListener('DOMContentLoaded', function() {
             center: 'title',
             right: 'dayGridMonth,timeGridWeek,timeGridDay,multiMonthYear,listWeek'
         },
-        googleCalendarApiKey: 'AIzaSyBT1aNkyzTCAQNSx4m4RUIUpVoENYHSAG0',
-        events: 'podologue.mauritius@gmail.com',
+        googleCalendarApiKey: '',
+        events: '',
         // ... other configurations ...
 
         // // New eventClick logic to prevent default action and open modal
